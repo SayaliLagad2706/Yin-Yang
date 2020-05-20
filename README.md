@@ -1,5 +1,4 @@
 # Yin-Yang
-README:
 - The aim of this project is to use core C++ to create images.
 - In this project, a Yin and yang image is generated using simple mathematical calculations.
 - The result is, a .pgm image showing the black and white image on a gray background.
